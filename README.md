@@ -1,7 +1,7 @@
 ---
 services: machine-learning
 platforms: python
-author: rastala
+author: j-martens
 ---
 
 # Azure Machine Learning: Sample Jupyter Notebooks
