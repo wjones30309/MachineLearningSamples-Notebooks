@@ -10,4 +10,8 @@ Use the Jupyter notebooks in this repository to explore what you can do with Azu
 
 We have notebooks to support these scenarios:
 
-+ [Build and deploy computer vision models](/domain-packages/computer-vision/)
++ [Build and deploy custom computer vision models](/domain-packages/computer-vision/)
+
++ [Build and deploy custom forecasting models](/domain-packages/forecasting/)
+
++ [Build and deploy custom text analytics and enrichers models](/domain-packages/text-analytics/)
