@@ -1,3 +1,3 @@
-The sample notebooks in this directory help you explore the functionality offered by Azure Machine Learning Package for Text Analytics.
+Explore what **Azure Machine Learning Package for Text Analytics** has to offer through these notebooks.
 
-Get the package reference docs here: https://aka.ms/aml-packages/text-analytics
+Full package reference docs: https://aka.ms/aml-packages/text-analytics
