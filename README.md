@@ -1,7 +1,5 @@
 
 
-# Azure Machine Learning: Sample Jupyter Notebooks
-
 ----
 
   **Important!**
@@ -10,6 +8,10 @@
 
 
 ----
+
+### Azure Machine Learning: Sample Jupyter Notebooks
+
+
 
 Use the Jupyter notebooks in this repository described deprecated scenarios for Azure Machine Learning. You can also download and customize these notebooks for your needs.
 
