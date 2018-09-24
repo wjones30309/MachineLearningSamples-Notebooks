@@ -1,8 +1,4 @@
----
-services: machine-learning
-platforms: python
-author: j-martens
----
+
 
 # Azure Machine Learning: Sample Jupyter Notebooks
 
