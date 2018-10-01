@@ -1,13 +1,7 @@
+> **Important!**
+> The Azure Machine Learning scenarios described in this repository are deprecated.
+> Find the latest [Azure Machine Learning docs here](https://aka.ms/aml-docs) and the [latest notebooks on this GitHub site](https://aka.ms/aml-notebooks).
 
-
-----
-
-  **Important!**
-  The Azure Machine Learning scenarios described in this repository are deprecated.
-  Find the latest [Azure Machine Learning docs here](https://aka.ms/aml-docs) and the [latest notebooks on this GitHub site](https://aka.ms/aml-notebooks).
-
-
-----
 
 ### Get the latest notebooks for Azure Machine Learning
 
