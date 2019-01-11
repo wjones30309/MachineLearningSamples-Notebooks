@@ -9,7 +9,7 @@ Explore what **Azure Machine Learning Package for Forecasting** has to offer thr
 - Forecast_Package_Transforms: examples of data transforms in AMLPF
 - Time_Series_Cross_Validation: the concepts of cross-validation as applied to time series and the TSCV classes that AMLPF has
 
-Full package reference docs: https://aka.ms/aml-packages/forecasting
+Full package reference docs: https://azuremlpackages.blob.core.windows.net/forecasting/release1901/documentation/index.html
 
 
 
